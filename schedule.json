@@ -1,0 +1,23 @@
+[
+  { "time": "05.40am", "destination": "මීගමුව", "interchange": "කටුනායක හුවමාරුව" },
+  { "time": "06.10am", "destination": "මීගමුව", "interchange": "කටුනායක හුවමාරුව" },
+  { "time": "06.25am", "destination": "කළුතර", "interchange": "දොඩන්ගොඩ හුවමාරුව" },
+  { "time": "06.35am", "destination": "නෙළුව", "interchange": "දොඩන්ගොඩ හුවමාරුව" },
+  { "time": "06.35am", "destination": "මීගමුව", "interchange": "කටුනායක හුවමාරුව" },
+  { "time": "06.50am", "destination": "පානදුර", "interchange": "ගැලනිගම හුවමාරුව" },
+  { "time": "06.50am", "destination": "කඩුවෙල", "interchange": "කොතලාවල හුවමාරුව" },
+  { "time": "06.55am", "destination": "මීගමුව", "interchange": "කටුනායක හුවමාරුව" },
+  { "time": "07.15am", "destination": "මීගමුව", "interchange": "කටුනායක හුවමාරුව" },
+  { "time": "07.20am", "destination": "කළුතර", "interchange": "දොඩන්ගොඩ හුවමාරුව" },
+  { "time": "07.20am", "destination": "කඩුවෙල", "interchange": "කොතලාවල හුවමාරුව" },
+  { "time": "07.25am", "destination": "පානදුර", "interchange": "ගැලනිගම හුවමාරුව" },
+  { "time": "07.25am", "destination": "අළුත්ගම", "interchange": "වැලිපැන්න හුවමාරුව" },
+  { "time": "07.35am", "destination": "මීගමුව", "interchange": "කටුනායක හුවමාරුව" },
+  { "time": "07.40am", "destination": "මතුගම", "interchange": "දොඩන්ගොඩ හුවමාරුව" },
+  { "time": "07.40am", "destination": "කඩුවෙල", "interchange": "කොතලාවල හුවමාරුව" },
+  { "time": "07.50am", "destination": "කළුතර", "interchange": "දොඩන්ගොඩ හුවමාරුව" },
+  { "time": "07.55am", "destination": "හොරණ", "interchange": "ගැලනිගම හුවමාරුව" },
+  { "time": "07.55am", "destination": "මීගමුව", "interchange": "කටුනායක හුවමාරුව" },
+  { "time": "08.00am", "destination": "පානදුර", "interchange": "ගැලනිගම හුවමාරුව" },
+  { "time": "08.00am", "destination": "කඩුවෙල", "interchange": "කොතලාවල හුවමාරුව" }
+]
